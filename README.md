@@ -7,7 +7,7 @@ I am currently actively studying at <a href="https://github.com/dicodingacademy"
 - 🔭 I’m currently Study on <a href="https://github.com/dicodingacademy">@dicodingacademy</a> from Bangkit Academy
 - 🌱 I’m currently learning about Machine Learning
 - 💬 Feel free to learn from each other
-- 📫 How to reach me: m794b4ky2313@bangkit.academym
+- 📫 How to reach me: m794b4ky2313@bangkit.academy
 - ⚡ Fun fact: RPG Gamer(F2P Player)
 
 ### My Hopefully i can use Tech Stack
