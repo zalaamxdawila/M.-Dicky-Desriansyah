@@ -28,5 +28,5 @@ I am currently actively studying at <a href="https://github.com/dicodingacademy"
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/m-dicky-desriansyah/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/m-dicky-desriansyah-23a79b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a>
 - m794b4ky2313@bangkit.academy
